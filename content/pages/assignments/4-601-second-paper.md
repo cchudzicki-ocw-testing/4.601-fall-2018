@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 440b7e0a-d3d0-d909-e0f3-f7d1d958d58b
 title: Second Paper Assignment
+type: CourseSection
 uid: ed9c1f13-939c-166b-f3c9-fa3fdffd9575
 ---
 
