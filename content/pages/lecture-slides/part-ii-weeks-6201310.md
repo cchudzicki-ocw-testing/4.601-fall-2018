@@ -5,7 +5,6 @@ parent_title: Lists of Works
 parent_type: CourseSection
 parent_uid: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
 title: "Part II (Weeks 6\u201310)"
-type: CourseSection
 uid: 5eb1592b-4a9b-d60b-2d9e-a2544ff21b45
 ---
 
