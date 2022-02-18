@@ -118,7 +118,7 @@ LECTURE TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-11\. [The Second Media Revolution]({{< baseurl >}}/pages/lecture-slides/part-iii-weeks-11201315)
+11\. {{< resource_link 6fe62931-4d14-f0ad-4914-21b1570026a2 "The Second Media Revolution" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 11a. Photography and Photographic Truth  
